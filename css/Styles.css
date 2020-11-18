@@ -1,0 +1,7 @@
+
+A:link {text-decoration: none; color: #007ECD; font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+A:visited {text-decoration: none; color: #007ECD; font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+A:active {text-decoration: none; color: #007ECD; font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+A:hover {text-decoration: underline; color: #0083E8; font-family: Arial, Helvetica, sans-serif; font-size: 10px; }
+
+BODY  { 	scrollbar-arrow-color:#281FB8;	scrollbar-base-color:#C8FF00;	scrollbar-face-color:#00FFFF;	scrollbar-highlight-color:#003300;	scrollbar-shadow-color:#003388 } 

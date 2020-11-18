@@ -1,0 +1,50 @@
+BODY {
+	FONT-FAMILY: Tahoma;
+	FONT-SIZE: 17px;
+}
+TD {
+	FONT-FAMILY: Tahoma;
+	FONT-SIZE: 11px;
+}
+#date {
+	TEXT-DECORATION:underline;
+	MARGIN-TOP:3px;
+}
+#foot {
+	TEXT-ALIGN:CENTER;
+}
+.px10 {
+	FONT-SIZE:10px;
+}
+H1 {
+	FONT-SIZE: 11px;
+	MARGIN-BOTTOM: 0px;
+	MARGIN-TOP: 0px;
+}
+P {
+	FONT-SIZE: 11px;
+	TEXT-INDENT: 0px;
+	MARGIN-LEFT: 0px;
+	MARGIN-RIGHT:0px;
+	MARGIN-TOP: 0px;
+	MARGIN-BOTTOM: 10px;
+	LINE-HEIGHT: 14px;
+	TEXT-ALIGN:justify;
+}
+INPUT {
+	FONT-SIZE: 11px;
+}
+TEXTAREA {
+	FONT-SIZE: 11px;
+}
+UL {
+	MARGIN-TOP:0px;
+	MARGIN-BOTTOM:0px;
+}
+LI {
+	FONT-SIZE: 11px;
+	MARGIN-BOTTOM:0px;
+	MARGIN-TOP:0px;
+	TEXT-INDENT: 0px;
+	LINE-HEIGHT: 13px;
+}

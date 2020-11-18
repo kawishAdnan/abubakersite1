@@ -31,4 +31,4 @@ jobs:
       - name: Installing surge 
         run: npm install --global surge
       - name: deploying using surge
-        run: surge ./ surgicalinstruments.surge.sh --token $ {{ secrets.ABUBAKER_TOKEN }}
+        run: surge ./ surgicalinstruments.surge.sh  --token ${{ secrets.surge_token }}
